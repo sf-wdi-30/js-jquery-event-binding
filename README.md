@@ -140,3 +140,6 @@ $("a").on("click", function handleClick(event){
     return false;
 });
 ```
+
+## Further enrichment of your JQuery success path!
+Need some more practice? Head on over to <a href="https://github.com/sf-wdi-30/events_lab">this lab</a>!
